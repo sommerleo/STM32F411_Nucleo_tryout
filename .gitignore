@@ -67,3 +67,9 @@ src/MDK/OUT/*
 *.swp
 *.uvguix.*
 JLinkLog.txt
+
+#Release and Debug folders
+Release/
+Debug/
+
+*.launch
